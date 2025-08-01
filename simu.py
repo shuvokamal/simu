@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="🔓 Unlock the Revolution", layout="centered")
-st.title("🎬 Crisis President is Waiting...")
+st.title("🎬 Unlock the Revolution...")
 
 # Password input
 password = st.text_input("শ্লোগানটা কি যেন?", type="password")
